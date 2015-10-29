@@ -31,6 +31,10 @@ public:
 }</pre>
 ```
 
+You can also call `PR.prettyprint()` to manually prettify the code.
+
+Additionally, if you want to "re-prettify" a snippet (e.g, because the content changed), you'll need to manually remove the class `prettyprinted` first.
+
 ## Discussion
 
 Please use the official support group for discussions, suggestions, and
